@@ -15,13 +15,3 @@ global.wait = '[Wait] Sedang di proses...'
 wait = '_*Tunggu Sebentar...*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-
-//*****************PEMBATAS*********************
-let chalk = require('chalk')
-let file = require.resolve(__filename)
-fs.watchFile(file, () => {
-  fs.unwatchFile(file)
-  console.log(chalk.redBright("Update 'config.js'"))
-  delete require.cache[file]
-  require(file)
-})
