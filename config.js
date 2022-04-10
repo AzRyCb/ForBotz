@@ -1,3 +1,9 @@
+/**
+   * Create By AzRyCb
+   * Contact Me on wa.me/6285795035419
+   * Follow https://github.com/AzRyCb
+*/
+
 let fs = require('fs')
 
 //Setting
