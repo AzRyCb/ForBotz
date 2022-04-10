@@ -1,6 +1,4 @@
 let fs = require('fs')
-let chalk = require('chalk')
-let file = require.resolve(__filename)
 
 //Setting
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
@@ -18,38 +16,9 @@ wait = '_*Tunggu Sebentar...*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 
-global.rpg = {
-  emoticon(string) {
-    string = string.toLowerCase()
-    let emot = {
-      exp: '✉️',
-      money: '💵',
-      potion: '🥤',
-      diamond: '💎',
-      common: '📦',
-      uncommon: '🎁',
-      mythic: '🗳️',
-      legendary: '🗃️',
-      pet: '🎁',
-      sampah: '🗑',
-      armor: '🥼',
-      sword: '⚔️',
-      kayu: '🪵',
-      batu: '🪨',
-      string: '🕸️',
-      kuda: '🐎',
-      kucing: '🐈' ,
-      anjing: '🐕',
-      petFood: '🍖',
-      gold: '👑',
-      emerald: '💚'
-    }
-    let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
-    if (!results.length) return ''
-    else return emot[results[0][0]]
-  }
-}
-
+//*****************PEMBATAS*********************
+let chalk = require('chalk')
+let file = require.resolve(__filename)
 fs.watchFile(file, () => {
   fs.unwatchFile(file)
   console.log(chalk.redBright("Update 'config.js'"))
