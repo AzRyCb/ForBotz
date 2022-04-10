@@ -217,11 +217,6 @@ WhatsApp Connection (BETA, not working perfectly)
 Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/dashboard)
 
-## AzRyCb stat
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=AzRyCb&theme=midnight-purple&show_icons=true) 
-
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
-
 ## Thanks To
 * [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device)
 * [`Nurutomo`](https://github.com/Nurutomo)
