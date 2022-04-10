@@ -130,6 +130,30 @@ If successful, it will give you a message like:
 > ffmpeg -version
 ```
 
+### Install libWebP
+- Untuk pengguna Windows,
+1. Unduh libWebP untuk Windows dari [sini](https://developers.google.com/speed/webp/download)
+2. Ekstrak ke C:\
+3. Ganti nama folder yang diekstrak ke `libwebp`
+4. Buka PowerShell dan jalankan perintah berikut;
+
+```cmd
+setx /m PATH "C:\libwebp\bin;%PATH%"
+```
+> Bila sukses terinstal dengan baik, silahkan check dengan perintah berikut di Command Prompt
+```cmd
+webpmux -version
+```
+
+- Untuk pengguna Linux, kamu bisa pakai manager paket kamu. Contohnya;
+```bash
+# apt (Ubuntu)
+apt install libwebp-dev -y
+
+# pacman (Arch Linux)
+pacman -S libwebp
+```
+
 ### Download bot and module files
 ```bash
 git clone https://github.com/devbotmail/Test
@@ -174,30 +198,6 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
       [['Hello', 'hello'], ['Bye', 'bye']], 
       null, { asLocation: true }
 )
-```
-
-### Install libWebP
-- Untuk pengguna Windows,
-1. Unduh libWebP untuk Windows dari [sini](https://developers.google.com/speed/webp/download)
-2. Ekstrak ke C:\
-3. Ganti nama folder yang diekstrak ke `libwebp`
-4. Buka PowerShell dan jalankan perintah berikut;
-
-```cmd
-setx /m PATH "C:\libwebp\bin;%PATH%"
-```
-> Bila sukses terinstal dengan baik, silahkan check dengan perintah berikut di Command Prompt
-```cmd
-webpmux -version
-```
-
-- Untuk pengguna Linux, kamu bisa pakai manager paket kamu. Contohnya;
-```bash
-# apt (Ubuntu)
-apt install libwebp-dev -y
-
-# pacman (Arch Linux)
-pacman -S libwebp
 ```
 
 ---------
