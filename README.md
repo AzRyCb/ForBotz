@@ -201,6 +201,13 @@ pacman -S libwebp
 ```
 
 ---------
+## Get apikey
+* [`zenz`](https://zenzapi.xyz/dashboard)
+* [`lolhuman`](https://api.lolhuman.xyz). [`zenz`](https://zenzapi.xyz/dashboard)
+* [`Xteam`](https://xteam.xyz)
+* [`Zeks`](https://zeks.me)
+* [`melcanz`](https://melcanz.com)
+---------
 
 ### want to contribute?
 1. fork this repository
