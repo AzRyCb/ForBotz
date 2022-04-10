@@ -201,15 +201,17 @@ pacman -S libwebp
 ```
 
 ---------
-## Get apikey
+
+## Get Apikey
 * [`zenz`](https://zenzapi.xyz/dashboard)
-* [`lolhuman`](https://api.lolhuman.xyz). [`zenz`](https://zenzapi.xyz/dashboard)
+* [`lolhuman`](https://api.lolhuman.xyz)
 * [`Xteam`](https://xteam.xyz)
 * [`Zeks`](https://zeks.me)
 * [`melcanz`](https://melcanz.com)
+
 ---------
 
-### want to contribute?
+### Want to contribute?
 1. fork this repository
 2. Change/edit/create what you want. for example you can add features, fix bug, etc
 3. **test** before making a pull req!!
@@ -217,12 +219,9 @@ pacman -S libwebp
 5. if your pull req is already in **acc/merge**, you can delete your branch or you can create pull req again :)
 
 ---------
+
 ## ❗ Information
 WhatsApp bot is still in the development stage.
-
-#### Get Apikey 
-* [`zenz`](https://zenzapi.xyz/dashboard)
-* [`lolhuman`](https://api.lolhuman.xyz).
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
@@ -236,4 +235,4 @@ Support Me
  [![Adiwajshing-Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing/Baileys) | [![Nurutomo](https://github.com/nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Hyzerr](https://github.com/Hyzerr.png?size=100)](https://github.com/Hyzerr) | [![AzRy](https://github.com/AzRyCb.png?size=100)](https://github.com/AzRyCb) | [![LordArya](https://github.com/devbotmail.png?size=100)](https://github.com/devbotmail)
 ----|----|----|----|----
 [Adiwajshing-Baileys](https://github.com/adiwajshing/Baileys) | [Nurutomo](https://github.com/Nurutomo) | [Hyzerr](https://github.com/Hyzerr) | [AzRy](https://github.com/AzRyCb) | [LordArya](https://github.com/devbotmail)
- Pembuat Baileys | Penulis / Pencipta | Penulis ulang | Owner Bot |Partner
+ Pembuat Baileys | Penulis / Pencipta | Penulis ulang | Owner | Partner
