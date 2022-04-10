@@ -210,19 +210,14 @@ pacman -S libwebp
 5. if your pull req is already in **acc/merge**, you can delete your branch or you can create pull req again :)
 
 ---------
-## ❗ Warning
-WhatsApp bot is still in the development stage, so there are a few bugs
-WhatsApp Connection (BETA, not working perfectly)
+## ❗ Information
+WhatsApp bot is still in the development stage.
 
 Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/dashboard)
 
-## Thanks To
+#### Thanks To
 * [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`HyzerrMd`](https://github.com/Hyzerr/Hyzer-MD-V2)* 
-* [`Bang-Lord-Offical`](https://github.com/devbotmail/Test)
-* [`AzRyCb`](https://github.com/AzRyCb)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
