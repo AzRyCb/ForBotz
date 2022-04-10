@@ -214,10 +214,10 @@ pacman -S libwebp
 WhatsApp bot is still in the development stage.
 
 Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
-Get Apikey zenz on [`zenz`](https://zenzapi.xyz/dashboard)
 
-#### Thanks To
-* [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device)
+#### Get Apikey 
+zenz on [`zenz`](https://zenzapi.xyz/dashboard)
+
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
