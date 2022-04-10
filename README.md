@@ -214,9 +214,8 @@ pacman -S libwebp
 WhatsApp bot is still in the development stage.
 
 #### Get Apikey 
-Apikey [`zenz`](https://zenzapi.xyz/dashboard).
-Apikey [`lolhuman`](https://api.lolhuman.xyz).
-Apikey
+* [`zenz`](https://zenzapi.xyz/dashboard)
+* [`lolhuman`](https://api.lolhuman.xyz).
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
@@ -231,5 +230,3 @@ Support Me
 ----|----|----|----|----
 [Adiwajshing-Baileys](https://github.com/adiwajshing/Baileys) | [Nurutomo](https://github.com/Nurutomo) | [Hyzerr](https://github.com/Hyzerr) | [AzRy](https://github.com/AzRyCb) | [LordArya](https://github.com/devbotmail)
  Pembuat Baileys | Penulis / Pencipta | Penulis ulang | Owner Bot |Partner
-
-
