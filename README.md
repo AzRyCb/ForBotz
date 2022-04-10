@@ -214,8 +214,8 @@ pacman -S libwebp
 WhatsApp bot is still in the development stage.
 
 #### Get Apikey 
-Apikey [`zenz`](https://zenzapi.xyz/dashboard)
-Apikey [`lolhuman`](https://api.lolhuman.xyz)
+Apikey [`zenz`](https://zenzapi.xyz/dashboard).
+Apikey [`lolhuman`](https://api.lolhuman.xyz).
 Apikey
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
