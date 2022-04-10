@@ -1,46 +1,22 @@
 let fs = require('fs')
+let chalk = require('chalk')
+let file = require.resolve(__filename)
 
-//SEtting
-global.owner = ['6281351047727'] // Put your number here
-global.mods = [] // Want some help?
+//Setting
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
-global.APIs = { // API Prefix
-  bg: 'http://bochil.ddns.net',
-  xteam: 'https://api.xteam.xyz',
-  melcanz: 'httpa://melcanz.com',
-  lol: 'https://api.lolhuman.xyz',
-  zahir: 'https://zahirr-web.herokuapp.com',
-  zeks: 'https://api.zeks.xyz',
-  apizeks: 'https://zeks.me',
-  x-api: 'https://x-restapi.herokuapp.com',
-  LeysCoder: 'https://leyscoders-api.herokuapp.com'
-}
-global.APIKeys = { // APIKey
-  'https://api.xteam.xyz': 'cristian9407',
-  'https://melcanz.com': 'elaina',
-  'https://api.lolhuman.xyz': 'pkebgk8248jskrkfm',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'apivinz',
-  'https://x-restapi.herokuapp.com': 'BETA',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
-}
+global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+//https://flamingtext.com/net-fu/proxy_form.cgi?script=chrominium-logo&_loc=generate&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text=
+//https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text=
 
-xteam = apivproject
-lolhuman = rey2k22
-
-// Sticker WM
-global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'ShiraoriBOT Multi device'
-global.author = 'Ilman'
-global.email = 'wakabahiiro5@gmail.com'
-global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '© ShiraoriBOT-Md Made by Ilman'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-
-global.wait = '_*tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
-
-global.multiplier = 69 // The higher, The harder levelup
+//Response
+global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!'
+global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk mengaktifkan\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
+global.eror = '[Error] Terjadi kesalahan !\nSilahkan kepada owner'
+global. stiker_wait = 'Stiker sedang dibuat'
+global.wait = '[Wait] Sedang di proses...'
+wait = '_*Tunggu Sebentar...*_'
+global.benar = 'Benar ✅\n'
+global.salah = 'Salah ❌\n'
 
 global.rpg = {
   emoticon(string) {
@@ -74,8 +50,6 @@ global.rpg = {
   }
 }
 
-let chalk = require('chalk')
-let file = require.resolve(__filename)
 fs.watchFile(file, () => {
   fs.unwatchFile(file)
   console.log(chalk.redBright("Update 'config.js'"))
