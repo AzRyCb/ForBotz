@@ -134,10 +134,6 @@ If successful, it will give you a message like:
 ```bash
 git clone https://github.com/devbotmail/Test
 cd Test
-```
-
-#### Menginstall modules
-```bash
 $ npm install
 $ npm update
 ```
@@ -195,11 +191,6 @@ WhatsApp Connection (BETA, not working perfectly)
 
 Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/dashboard)
-
-### install node_modules
-```cmd
-> npm install && npm update
-```
 
 ## AzRyCb stat
 ![Ra Github stat](https://github-readme-stats.vercel.app/api?username=AzRyCb&theme=midnight-purple&show_icons=true) 
