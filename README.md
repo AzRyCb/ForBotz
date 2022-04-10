@@ -120,14 +120,14 @@ npm update
 * Run Command Prompt as Administrator.
 * Run the following command:
 ```cmd
-> setx /m PATH "C:\ffmpeg\bin;%PATH%"
+setx /m PATH "C:\ffmpeg\bin;%PATH%"
 ```
 If successful, it will give you a message like:
 `SUCCESS: specified value was saved`.
 
 * To verify that it works by running this command to see the version:
 ```cmd
-> ffmpeg -version
+ffmpeg -version
 ```
 
 ### Install libWebP
