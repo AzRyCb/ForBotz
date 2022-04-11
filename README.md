@@ -15,7 +15,7 @@ Simple Rpg WhatsApp Bot
 
 ## Join Group Whatsapp
 [![Grup WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=oldgreen)](https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd)
-[![Wangsaff BOT Katalog](https://img.shields.io/badge/Wangsaff%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=oldgreen)](https://wa.me/p/4860977960686069/6289688069444)
+[![Community](https://img.shields.io/badge/Wangsaff%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=oldgreen)](https://wa.me/p/4860977960686069/6289688069444)
 ## Deploy to heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
@@ -64,7 +64,6 @@ node .
 
 2. Wait for bot starting...
 3. Scan QR code from 2nd device. (Go to whatsapp > Linked Devices > Join `Multi Device Beta` > Click on `link device`)
-4. Now your bot is ready to rock n roll.
 ---------
 
 ## INSTALL ON TERMUX WITH UBUNTU
@@ -110,7 +109,6 @@ npm update
 |-----|--------|
 |**Git** | [Click this](https://git-scm.com/downloads)
 |**NodeJs** | [Click this](https://nodejs.org/en/download)
-|**Ffmpeg** | [Click this](https://ffmpeg.org/download.html)
 |**ImageMagick** | [Click this](https://imagemagick.org/script/download.php)
 
 #### Installing the FFmpeg and Add FFmpeg to PATH enviroment variables
