@@ -1,0 +1,35 @@
+//config.js
+let fs = require('fs')
+const more = String.fromCharCode(8206)
+const readMore = more.repeat(4104)
+
+global.linkGC = ['https://chat.whatsapp.com/GNOimnXOQoR10oOjCsadXZ','']
+global.owner = ['6285795035419','6289688069444']
+global.mods = ['6285795035419'] // Moderator
+global.image = 'https://telegra.ph/file/0572e0fe0501890afc9b0.jpg'
+global.wait = '[Wait] Sedang di proses...'
+global.eror = '[Error] Terjadi kesalahan !\nSilahkan kepada owner'
+global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
+
+global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+//https://flamingtext.com/net-fu/proxy_form.cgi?script=chrominium-logo&_loc=generate&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text=
+//https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text=
+
+//main.js
+conn.welcome = '𝗛𝗮𝗹𝗼 𝗞𝗮𝗸 @user\n𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗗𝗮𝘁𝗮𝗻𝗴 𝗗𝗶 𝗚𝗿𝗼𝘂𝗽 @subject\n\nIntro Dulu Yuk Biar Keren 🤙\n\n📛 Nama :\n🏙️ Askot :\n\nSemoga Kamu Senang Berada Disini\nSerta Jangan Lupa Untuk Membaca\nDan Mematuhi Rules Yang Ada\n  ${readMore}\n              *◌  ⃝✧⪼ Deskripsi Group ミ*\n  @desc'
+conn.bye = '```GoodBye @user ! 👋```\nSemoga kamu baik baik saja\n\nKalo Balik Jangan Lupa Bawa Gorengan Ya (>_<)'
+conn.spromote = '━━ 「 *Promote Detected* 」━━\nTerdeteksi @user menjadi *Admin*\nSemoga kamu jujur dan dapat dipercaya\nOleh semua member (+_+)'
+conn.sdemote = 'Alhamdulillah @user Sekarang Bukan Admin:v'
+
+global.conn = new WAConnection()
+conn.version =[2,2143,3]
+conn.browserDescription =['Kanna BOT', 'Firefox', '3.0']
+let authFile = `${opts._[0] || 'session'}.data.json`
+
+      if (fs.existsSync(dir)) conn.logger.info(`[🔄] re - require plugin '${filename}'`)
+      else {
+        conn.logger.warn(`[⛔] deleted plugin '${filename}'`)
+
+    } else conn.logger.info(`[✅] requiring new plugin '${filename}'`)
+    let err = syntaxerror(fs.readFileSync(dir), filename)
+    if (err) conn.logger.error(`[❗] syntax error while loading '${filename}'\n${err}`)
