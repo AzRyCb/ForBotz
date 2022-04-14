@@ -144,6 +144,9 @@ webpmux -version
 
 - Untuk pengguna Linux, kamu bisa pakai manager paket kamu. Contohnya;
 ```bash
+# sudo (Ubuntu)
+sudo apt install libwebp
+
 # apt (Ubuntu)
 apt install libwebp-dev -y
 
@@ -173,8 +176,7 @@ node .
 
 #### for windows with wsl ubuntu
 ```bash
-$ sudo apt-get update
-$ sudo apt-get upgrade
+$ sudo apt-get update && sudo apt-get upgrade
 $ sudo apt install bash curl wget mc
 $ sudo apt install git nodejs yarn
 $ sudo apt install ffmpeg imagemagick
