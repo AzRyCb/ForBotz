@@ -34,7 +34,6 @@ install required packages
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install bash
-$ pkg install wget
 $ pkg install git -y 
 $ pkg install nodejs -y 
 $ apt install ffmpeg -y
@@ -170,6 +169,15 @@ $ yarn install
 ### Start
 ```bash
 node .
+```
+
+#### for windows with wsl ubuntu
+```bash
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt install bash curl wget mc
+$ sudo apt install git nodejs yarn
+$ sudo apt install ffmpeg imagemagick
 ```
 
 ---------
