@@ -33,21 +33,14 @@ Tutorial YouTube
 install required packages
 ```bash
 $ pkg update && pkg upgrade
-$ pkg install bash
-$ pkg install git -y 
-$ pkg install nodejs -y 
-$ apt install ffmpeg -y
-$ apt install imagemagick -y
+$ pkg install bash 
+$ pkg install git nodejs
+$ pkg install ffmpeg imagemagick
 $ pkg install libwebp
 $ git clone https://github.com/devbotmail/Test
 $ termux setup-storage
 $ cd Test
-```
-
-#### Menginstall modules
-```bash
-$ npm install
-$ npm update
+$ npm install && npm update
 ```
 
 If npm install failed, try using yarn instead of npm
@@ -62,7 +55,9 @@ node .
 ```
 
 2. Wait for bot starting...
-3. Scan QR code from 2nd device. (Go to whatsapp > Linked Devices > Join `Multi Device Beta` > Click on `link device`)
+3. (Go to whatsapp > Click the three dots button in the top right corner 
+4. click Linked Devices > Join `Multi Device Beta` > Click on `link device`)
+5. Scan QR code
 ---------
 
 ## INSTALL ON TERMUX WITH UBUNTU
@@ -147,12 +142,6 @@ webpmux -version
 
 - Untuk pengguna Linux, kamu bisa pakai manager paket kamu. Contohnya;
 ```bash
-# sudo (Ubuntu)
-sudo apt install libwebp-dev -y
-
-# apt (Ubuntu)
-apt install libwebp-dev -y
-
 # pacman (Arch Linux)
 pacman -S libwebp
 ```
@@ -161,7 +150,7 @@ pacman -S libwebp
 ```bash
 $ sudo apt-get update && sudo apt-get upgrade
 $ sudo apt install bash curl wget mc
-$ sudo apt install git nodejs yarn
+$ sudo apt install git nodejs libwebp-dev yarn
 $ sudo apt install ffmpeg imagemagick
 ```
 
