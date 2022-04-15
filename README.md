@@ -60,7 +60,7 @@ node .
 5. Scan QR code
 ---------
 
-## INSTALL ON TERMUX WITH UBUNTU
+### FOR TERMUX WITH UBUNTU
 
 [ INSTALLING UBUNTU ]
 
