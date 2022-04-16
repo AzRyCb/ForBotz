@@ -4,6 +4,9 @@
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="https://i.ibb.co/TBVZ0YH/thumb.jpg" alt="Velgrynd"></a>
 </p>
+<p align="center">
+<a href="#"><img title="ZEUS-BOTZ" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI,DAN JANGAN LUPA GANTI APIKEY NYA SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 
 # AzBotz
 Simple Rpg WhatsApp Bot
