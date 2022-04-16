@@ -22,7 +22,7 @@
 ------
   
 # AzBotz
-#### Simple Rpg WhatsApp Bot
+### Simple Rpg WhatsApp Bot
 
 ## Join Group Whatsapp
 [![Grup WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=oldgreen)](https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd)
