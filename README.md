@@ -19,6 +19,8 @@
 <a href="https://github.com/PilarV2/ZEUSBOTZ-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/PilarV2/ZEUSBOTZ-MD?label=PullRequest&color=red&style=flat-square"></a>
 </p>
 
+------
+  
 # AzBotz
 Simple Rpg WhatsApp Bot
 
