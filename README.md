@@ -23,10 +23,9 @@
   
 # AzBotz
 ### Simple Rpg WhatsApp Bot
-
-## Join Group Whatsapp
 [![Grup WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=oldgreen)](https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd)
 [![Community](https://img.shields.io/badge/Wangsaff%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=oldgreen)](https://wa.me/p/4860977960686069/6289688069444)
+
 ## Deploy to heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
