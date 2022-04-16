@@ -22,12 +22,7 @@
 ------
   
 # AzBotz
-Simple Rpg WhatsApp Bot
-
-<a href="https://github.com/Dawnfrosty/Mike-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dawnfrosty/Mike-bot?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Dawnfrosty/Mike-bot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Dawnfrosty/Mike-bot?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Dawnfrosty/Mike-bot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Dawnfrosty/Mike-bot?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Dawnfrosty/Mike-bot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Dawnfrosty/Mike-bot?label=Contributors&color=blue&style=flat-square"></a>
+#### Simple Rpg WhatsApp Bot
 
 ## Join Group Whatsapp
 [![Grup WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=oldgreen)](https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd)
