@@ -12,10 +12,10 @@ const readMore = more.repeat(4104)
 global.linkGC = ['https://chat.whatsapp.com/GNOimnXOQoR10oOjCsadXZ','']
 global.owner = ['6285795035419','6289688069444']
 global.mods = ['6285795035419'] // Moderator
+global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.image = 'https://telegra.ph/file/0572e0fe0501890afc9b0.jpg'
 global.wait = '[Wait] Sedang di proses...'
 global.eror = '[Error] Terjadi kesalahan !\nSilahkan kepada owner'
-global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 //https://flamingtext.com/net-fu/proxy_form.cgi?script=chrominium-logo&_loc=generate&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text=
