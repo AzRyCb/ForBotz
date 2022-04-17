@@ -15,12 +15,12 @@ handler.all = async function (m, { isBlocked }) {
     try {
         if (m.mentionedJid.includes(this.user.jid) && m.isGroup) {
             await this.send2Button(m.chat,
-                isBanned ? 'Shiro-Botz tidak aktif' : banned ? 'kamu dibanned' : 'lagi sad ga ush ngetag',
-                '©shirobotz',
-                isBanned ? 'Unban' : banned ? 'Pemilik Bot' : 'Menu',
-                isBanned ? '.unban' : banned ? '.owner' : '.?',
-                m.isGroup ? 'Ban' : isBanned ? 'Unban' : 'Donasi',
-                m.isGroup ? '.ban' : isBanned ? '.unban' : '.donasi', m)
+                isBanned ? 'Botz tidak aktif (・へ・)' : banned ? 'kamu dibanned' : 'Lgi Sad gausah ngeTag',
+                '',
+                isBanned ? 'Unban' : banned ? 'Pemilik Bot' : '⋮☰ Menu',
+                isBanned ? '.unban' : banned ? '.owner' : '.menu',
+                m.isGroup ? 'Owner' : isBanned ? 'Donasi' : 'Donasi',
+                m.isGroup ? '.nowner' : isBanned ? '.donasi' : '.donasi', m)
         }
     } catch (e) {
         return
@@ -28,18 +28,31 @@ handler.all = async function (m, { isBlocked }) {
 
     // ketika ada yang invite/kirim link grup di chat pribadi
     if ((m.mtype === 'groupInviteMessage' || m.text.startsWith('https://chat') || m.text.startsWith('Buka tautan ini')) && !m.isBaileys && !m.isGroup) {
-        this.send2ButtonLoc(m.chat, await (await fetch(fla + 'sewa bot')).buffer(), `╠═〘 Beli Bot 〙 ═
-╠➥ *1 Minggu* :      *Rm 5.00*
-╠➥ *2 Minggu* : *Rm 10.00*
-╠➥ *3 Minggu* :   *Rm 15.00*
-╠➥ *1 Bulan* :        *Rm 20.00*
-║
-╠═〘 𝐏𝐄𝐌𝐁𝐀𝐘𝐀𝐑𝐀𝐍 〙 ═
-╠➥ TOPUP/PIN
-║- 60149431385 (Digi)
-║- 60189830350 (Umobile)
-╠═〘 Hyzer 〙 ═`.trim(), '©shirobotz', 'Digi', '#viadigi', 'Umobile', '#viaumobile', m)
+        this.send2Button(m.chat, await (await fetch(fla + 'sewa bot')).buffer(), `
+╭═══ 〘 SEWA 〙
+║ ┅ ๑————————————๑
+║┊ ⌲ Sewa = 5k/grup (1 minggu)
+║┊ ⌲ Sewa = 15k/grup (1 bulan)
+║┊ ⌲ Sewa = 25k/grup (3 bulan)
+╰═ ┅ ═══════
+                        
+༅ KEUNTUNGAN
+                        
+✧ Bebas Add bot ke grup
+✧ bisa jaga grup kamu
+✧ Bisa nyuruh Buka/Tutup Group
+✧ bisa kick atau add seseorang
+✧ Ada fitur khusus admin
+✧ Ada fitur setting grup
+✧ Antilink, antispam dll`.trim(), 'Menu', '#menu', 'Owner', '#owner', m)
 }
+
+    // salam
+    let thx = /(terima?kasih|makasih|maacih|tengkyuh|tengks|arigatou)/i
+    let dibalas = thx.exec(m.text)
+    if (dibalas && !m.fromMe) {
+        m.reply(`Sama-sama, , （ ・∀・）`)
+    }
 
     // salam
     let reg = /(ass?alam|اَلسَّلاَمُ عَلَيْكُمْ|السلام عليکم)/i
@@ -68,7 +81,7 @@ handler.all = async function (m, { isBlocked }) {
     if (new Date() * 1 - setting.status > 1000) {
         let _uptime = process.uptime() * 1000
         let uptime = clockString(_uptime)
-        await this.setStatus(`Aktif selama ${uptime} | Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} |Bot by Hyzer. `).catch(_ => _)
+        await this.setStatus(`Im Botz 🤖 || ⏰ Aktif selama ${uptime} || 👥 User : ${Object.keys(global.db.data.users).length} User || 🎐 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'}`).catch(_ => _)
         setting.status = new Date() * 1
     }
 
@@ -80,7 +93,7 @@ function clockString(ms) {
     let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000)
     let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
     let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
-    return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')
+    return [h, ' H ', m, ' M ', s, ' S'].map(v => v.toString().padStart(2, 0)).join('')
 }
 
 function pickRandom(list) {
