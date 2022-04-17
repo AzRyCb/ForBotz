@@ -37,15 +37,15 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 
 //main.js
-conn.welcome = '𝗛𝗮𝗹𝗼 𝗞𝗮𝗸 @user\n𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗗𝗮𝘁𝗮𝗻𝗴 𝗗𝗶 𝗚𝗿𝗼𝘂𝗽 @subject\n\nIntro Dulu Yuk Biar Keren 🤙\n\n📛 Nama :\n🏙️ Askot :\n\nSemoga Kamu Senang Berada Disini\nSerta Jangan Lupa Untuk Membaca\nDan Mematuhi Rules Yang Ada\n  ${readMore}\n              *◌  ⃝✧⪼ Deskripsi Group ミ*\n  @desc'
-conn.bye = '```GoodBye @user ! 👋```\nSemoga kamu baik baik saja\n\nKalo Balik Jangan Lupa Bawa Gorengan Ya (>_<)'
-conn.spromote = '━━ 「 *Promote Detected* 」━━\nTerdeteksi @user menjadi *Admin*\nSemoga kamu jujur dan dapat dipercaya\nOleh semua member (+_+)'
-conn.sdemote = 'Alhamdulillah @user Sekarang Bukan Admin:v'
-
 global.conn = new WAConnection()
 conn.version =[2,2143,3]
 conn.browserDescription =['Kanna BOT', 'Firefox', '3.0']
 let authFile = opts['session'] ? opts['session'] + '.json' : 'session.data.json'
+
+conn.welcome = '𝗛𝗮𝗹𝗼 𝗞𝗮𝗸 @user\n𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗗𝗮𝘁𝗮𝗻𝗴 𝗗𝗶 𝗚𝗿𝗼𝘂𝗽 @subject\n\nIntro Dulu Yuk Biar Keren 🤙\n\n📛 Nama :\n🏙️ Askot :\n\nSemoga Kamu Senang Berada Disini\nSerta Jangan Lupa Untuk Membaca\nDan Mematuhi Rules Yang Ada\n  ${readMore}\n              *◌  ⃝✧⪼ Deskripsi Group ミ*\n  @desc'
+conn.bye = '```GoodBye @user ! 👋```\nSemoga kamu baik baik saja\n\nKalo Balik Jangan Lupa Bawa Gorengan Ya (>_<)'
+conn.spromote = '━━ 「 *Promote Detected* 」━━\nTerdeteksi @user menjadi *Admin*\nSemoga kamu jujur dan dapat dipercaya\nOleh semua member (+_+)'
+conn.sdemote = 'Alhamdulillah @user Sekarang Bukan Admin:v'
 
       if (fs.existsSync(dir)) conn.logger.info(`[🔄] re - require plugin '${filename}'`)
       else {
