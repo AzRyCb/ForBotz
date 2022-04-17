@@ -28,7 +28,7 @@ handler.all = async function (m, { isBlocked }) {
 
     // ketika ada yang invite/kirim link grup di chat pribadi
     if ((m.mtype === 'groupInviteMessage' || m.text.startsWith('https://chat') || m.text.startsWith('Buka tautan ini')) && !m.isBaileys && !m.isGroup) {
-        this.send2Button(m.chat, await (await fetch(logo)).buffer(), `
+        this.send2Button(m.chat, await (await fetch(image)).buffer(), `
 ╭═══ 〘 SEWA 〙
 ║ ┅ ๑————————————๑
 ║┊ ⌲ Sewa = 5k/grup (1 minggu)
