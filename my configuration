@@ -4,6 +4,11 @@
    * Follow https://github.com/AzRyCb
 */
 
+//index
+console.log('🕔 Starting...')
+    console.log('[✅ RECEIVED]', data)
+    console.error('[❗] Exited with code:', code)
+
 //config.js
 let fs = require('fs')
 const more = String.fromCharCode(8206)
