@@ -5,18 +5,18 @@
   <a href="https://ibb.co/QQX130c"><img src="https://i.ibb.co/TBVZ0YH/thumb.jpg" alt="Velgrynd"></a>
 </p>
 <p align="center">
-<a href="#"><img title="ZEUS-BOTZ" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI,DAN JANGAN LUPA GANTI APIKEY NYA SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ZEUS-BOTZ" src="https://img.shields.io/badge/GANTI SESSION & APIKEY NYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/PilarV2/ZEUSBOTZ-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PilarV2/ZEUSBOTZ-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/PilarV2/ZEUSBOTZ-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/PilarV2/ZEUSBOTZ-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/PilarV2/ZEUSBOTZ-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/PilarV2/ZEUSBOTZ-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/PilarV2/ZEUSBOTZ-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/PilarV2/ZEUSBOTZ-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/PilarV2/ZEUSBOTZ-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/PilarV2/ZEUSBOTZ-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/PilarV2/ZEUSBOTZ-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/PilarV2/ZEUSBOTZ-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/PilarV2/ZEUSBOTZ-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/PilarV2/ZEUSBOTZ-MD?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/AzRyCb/ForBotz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PilarV2/ZEUSBOTZ-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/AzRyCb/ForBotz/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/PilarV2/ZEUSBOTZ-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/AzRyCb/ForBotz/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/PilarV2/ZEUSBOTZ-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/AzRyCb/ForBotz/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/PilarV2/ZEUSBOTZ-MD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/AzRyCb/ForBotz/issues"><img title="Issues" src="https://img.shields.io/github/issues/PilarV2/ZEUSBOTZ-MD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/AzRyCb/ForBotz/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/PilarV2/ZEUSBOTZ-MD?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/AzRyCb/ForBotz/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/PilarV2/ZEUSBOTZ-MD?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://www.youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng"><img src="https://img.shields.io/youtube/channel/subscribers/UC3zScvuQfMxqiTC5x_JUEng?style=social" /> <br>
-<a href="https://github.com/PilarV2/ZEUSBOTZ-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/PilarV2/ZEUSBOTZ-MD?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/AzRyCb/ForBotz/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/PilarV2/ZEUSBOTZ-MD?label=PullRequest&color=red&style=flat-square"></a>
 </p>
 
 ------
