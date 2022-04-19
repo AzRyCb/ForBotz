@@ -158,7 +158,7 @@ pacman -S libwebp
 ### for wsl ubuntu
 ```bash
 $ sudo apt-get install && sudo apt-get upgrade
-$ sudo apt install bash wget mc yarn
+$ sudo apt install bash mc yarn
 $ sudo apt install git nodejs ffmpeg
 $ sudo apt install imagemagick libwebp-dev
 ```
