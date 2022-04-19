@@ -42,10 +42,9 @@ Tutorial YouTube
 install required packages
 ```bash
 $ pkg update && pkg upgrade
-$ pkg install bash 
-$ pkg install git nodejs
+$ pkg install bash git nodejs
 $ pkg install ffmpeg imagemagick
-$ pkg install libwebp
+$ pkg install libwebp 
 $ git clone https://github.com/devbotmail/Test
 $ termux setup-storage
 $ cd Test
