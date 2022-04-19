@@ -1,11 +1,10 @@
 <h1 align="center">My Project</h1>
 
-
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="https://i.ibb.co/TBVZ0YH/thumb.jpg" alt="Velgrynd"></a>
 </p>
 <p align="center">
-<a href="#"><img title="ZEUS-BOTZ" src="https://img.shields.io/badge/GANTI SESSION & APIKEY NYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BOTZ" src="https://img.shields.io/badge/GANTI SESSION & APIKEY NYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/AzRyCb/ForBotz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PilarV2/ZEUSBOTZ-MD?label=Forks&color=blue&style=flat-square"></a>
@@ -156,12 +155,12 @@ webpmux -version
 pacman -S libwebp
 ```
 
-### for windows with wsl ubuntu
+### for wsl ubuntu
 ```bash
 $ sudo apt-get install && sudo apt-get upgrade
-$ sudo apt install bash curl wget mc yarn
-$ sudo apt install git nodejs libwebp-dev
-$ sudo apt install ffmpeg imagemagick
+$ sudo apt install bash wget mc yarn
+$ sudo apt install git nodejs ffmpeg
+$ sudo apt install imagemagick libwebp-dev
 ```
 
 ## Download bot and module files
