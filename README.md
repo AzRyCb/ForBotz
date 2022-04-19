@@ -184,15 +184,6 @@ node . or node index
 
 ---------
 
-## Get Apikey
-* [`zenz`](https://zenzapi.xyz/dashboard)
-* [`lolhuman`](https://api.lolhuman.xyz)
-* [`Xteam`](https://xteam.xyz)
-* [`Zeks`](https://zeks.me)
-* [`melcanz`](https://melcanz.com)
-
----------
-
 ### Want to contribute?
 1. fork this repository
 2. Change/edit/create what you want. for example you can add features, fix bug, etc
