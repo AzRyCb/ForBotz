@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="https://i.ibb.co/TBVZ0YH/thumb.jpg" alt="Velgrynd"></a>
 </p>
-<p align="center">
 <a href="https://github.com/AzRyCb"><img title="Author" src="https://img.shields.io/badge/Letta-Sama-pink.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
