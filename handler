@@ -8,7 +8,26 @@ const uploadImage = require('./lib/uploadImage')
 
             this.reply(m.chat, `✖️ Limit anda habis, silahkan beli melalui *${usedPrefix}blimit*`, m)
             this.reply(m.chat, `[❗] Diperlukan level ${plugin.level} untuk menggunakan perintah ini\n📊 *Level kamu:* ${_user.level}`, m)
-            if (m.limit) m.reply(+ m.limit + ' Limit terpakai ✔️')
+
+                } catch (e) {
+                    // Error occured
+                    m.error = e
+                    console.error(e)
+                    if (e) {
+                        let text = format(e)
+                        for (let key of Object.values(global.APIKeys))
+                            text = text.replace(new RegExp(key, 'g'), '#HIDDEN#')
+                        if (e.name)
+                            for (let [jid] of global.owner.filter(([number, _, isDeveloper]) => isDeveloper && number)) {
+                                let data = (await conn.onWhatsApp(jid))[0] || {}
+                                if (data.exists)
+                                    m.reply(`*🗂️ Plugin:* ${m.plugin}\n*👤 Sender:* ${m.sender}\n*💬 Chat:* ${m.chat}\n*💻 Command:* ${usedPrefix}${command} ${args.join(' ')}\n📄 *Error Logs:*\n\n\`\`\`${text}\`\`\``.trim(), data.jid)
+                            }
+                        m.reply(text)
+                    }
+
+
+                  if (m.limit) m.reply(+ m.limit + ' Limit terpakai ✔️')
 
       async participantsUpdate({ jid, participants, action }) {
     let chat = global.db.data.chats[jid] || {}
