@@ -196,7 +196,8 @@ node . or node index
 2. Change/edit/create what you want. for example you can add features, fix bug, etc
 3. **test** before making a pull req!!
 4. make a pull req!
-5. if your pull req is already in **acc/merge**, you can delete your branch or you can create pull req again :)
+5. if your pull req is already in **acc/merge**,
+   you can delete your branch or you can create pull req again :)
 
 ---------
 
