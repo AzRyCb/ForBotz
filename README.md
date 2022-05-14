@@ -31,7 +31,8 @@
   
 ---------
 
-## [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
+## ```Heroku Buildpack```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -186,6 +187,16 @@ $ yarn install
 node . or node index
 ```
 
+#### Running bot
+```bash
+node .
+```
+
+2. Wait for bot starting...
+3. (Go to whatsapp > Click the three dots button in the top right corner 
+4. click Linked Devices > Join `Multi Device Beta` > Click on `link device`)
+5. Scan QR code
+ 
 ---------
 
 ### Want to contribute?
