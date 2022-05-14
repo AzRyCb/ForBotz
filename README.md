@@ -113,7 +113,7 @@ npm update
 
 ---------
 
-## FOR WINDOWS/VPS/RDP
+## FOR WINDOWS/VPS/RDP 💻
 #### Download & install this programs
 | Programs | LINK |
 |-----|--------|
@@ -121,7 +121,7 @@ npm update
 |**NodeJs** | [Click this](https://nodejs.org/en/download)
 |**ImageMagick** | [Click this](https://imagemagick.org/script/download.php)
 
-#### Installing the FFmpeg and Add FFmpeg to PATH enviroment variables
+#### Installing the FFmpeg
 * Download one of the FFmpeg versions [here](https://ffmpeg.org/download.html).
 * Extract file to `C:\` path.
 * Rename the extracted folder to `ffmpeg`.
@@ -138,17 +138,18 @@ If successful, it will give you a message like:
 ffmpeg -version
 ```
 
-### Install libWebP
-- Untuk pengguna Windows,
-1. Unduh libWebP untuk Windows dari [sini](https://developers.google.com/speed/webp/download)
-2. Ekstrak ke C:\
-3. Ganti nama folder yang diekstrak ke `libwebp`
-4. Buka PowerShell dan jalankan perintah berikut;
+### Install the libWebP
+* Unduh libWebP untuk Windows dari [here](https://developers.google.com/speed/webp/download)
+* Ekstrak ke C:\
+* Ganti nama folder yang diekstrak ke `libwebp`
+* Buka PowerShell dan jalankan perintah berikut;
 
 ```cmd
 setx /m PATH "C:\libwebp\bin;%PATH%"
 ```
-> Bila sukses terinstal dengan baik, silahkan check dengan perintah berikut di Command Prompt
+> If successful, it will give you a message like:
+`SUCCESS: specified value was saved`.s
+To verify that it works by running this command
 ```cmd
 webpmux -version
 ```
