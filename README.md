@@ -199,7 +199,7 @@ node . or node index
 
 ---------
 
-## ❗ Information
+## `Information` ❗
 WhatsApp bot is still in the development stage.
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
@@ -210,7 +210,7 @@ Support Me
 * [`Saweria Donate 2`](https://saweria.co/bangdevs)
 * [`TrakTeer`](https://trakteer.id/AzRyCb)
 ---------
-#### FITUR 📍
+#### `FITUR` 📍
 | Fitur | Check |
 |--------|--------|
 | **Downloader** |[✔️](https://github.com/kannachann) |
