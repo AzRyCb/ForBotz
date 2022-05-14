@@ -218,9 +218,9 @@ Support Me
 * [`TrakTeer`](https://trakteer.id/AzRyCb)
 ---------
 #### `FITUR & Apikey` 📍
-| Fitur | Check |
-|--------|--------|
-| **Downloader** |[✔️](https://cutt.ly/xHhCYPd) |
+| Fitur | Check | Api |
+|--------|--------|--------|
+| **Downloader** |[✔️](https://cutt.ly/xHhCYPd) |[✔️](https://cutt.ly/xHhCYPd) |
 | **Internet** |[✔️](https://cutt.ly/xHhCYPd) |
 | **Game Rpg** |[✔️](https://cutt.ly/xHhCYPd) |
 | **Nsfw** |[✔️](https://cutt.ly/xHhCYPd) |
