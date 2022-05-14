@@ -4,7 +4,7 @@
   <a href="https://ibb.co/QQX130c"><img src="https://i.ibb.co/TBVZ0YH/thumb.jpg" alt="Velgrynd"></a>
 </p>
 <p align="center">
-<a href="https://github.com/AzRyCb"><img title="Author" src="https://img.shields.io/badge/Letta-Sama-pink.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/AzRyCb"><img title="Author" src="https://img.shields.io/badge/Bot-Wa-green.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="#"><img title="BOTZ" src="https://img.shields.io/badge/GANTI SESSION & APIKEY NYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
