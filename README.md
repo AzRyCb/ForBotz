@@ -43,7 +43,6 @@
 | **IMAGEMAGICK** |[copy this link](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)  |
 
 Tutorial YouTube
-
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
 
 ## FOR TERMUX
@@ -190,6 +189,22 @@ $ yarn install
 node . or node index
 ```
 
+#### FITUR 📍
+| Fitur | Check |
+|--------|--------|
+| **Downloader** |[✔️](https://github.com/kannachann) |
+| **Internet** |[✔️](https://github.com/kannachann) |
+| **Game Rpg** |[✔️](https://github.com/kannachann) |
+| **Nsfw** |[✔️](https://github.com/kannachann) |
+| **Sticker** |[✔️](https://github.com/kannachann) |
+| **Game** |[✔️](https://github.com/kannachann) |
+| **Kerang Ajaib** |[✔️](https://github.com/kannachann) |
+| **Quotes** |[✔️](https://github.com/kannachann) |
+| **Anime** |[✔️](https://github.com/kannachann) |
+| **Premium** |[✔️](https://github.com/kannachann) |
+| **Tools** |[✔️](https://github.com/kannachann) |
+| **Exec** |[✔️](https://github.com/kannachann) |
+| **React** |[✔️](https://github.com/kannachann) |
 ---------
 
 ### Want to contribute?
