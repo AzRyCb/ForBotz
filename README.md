@@ -139,17 +139,18 @@ ffmpeg -version
 ```
 
 ### Install the libWebP
-* Unduh libWebP untuk Windows dari [here](https://developers.google.com/speed/webp/download)
-* Ekstrak ke C:\
-* Ganti nama folder yang diekstrak ke `libwebp`
-* Buka PowerShell dan jalankan perintah berikut;
+* Download libWebP for Windows dari [here](https://developers.google.com/speed/webp/download)
+* Extract file to `C:\` path.
+* Rename the extracted folder to `ffmpeg`
+* Open PowerShell and Run the following command:
 
 ```cmd
 setx /m PATH "C:\libwebp\bin;%PATH%"
 ```
 > If successful, it will give you a message like:
 `SUCCESS: specified value was saved`.s
-To verify that it works by running this command
+
+* To verify that it works by running this command
 ```cmd
 webpmux -version
 ```
