@@ -182,12 +182,7 @@ $ yarn
 $ yarn install
 ```
 
-### Start
-```bash
-node . or node index
-```
-
-#### Running bot
+### `Running bot`
 ```bash
 node .
 ```
