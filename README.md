@@ -47,13 +47,13 @@ Tutorial YouTube
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
 
 ## FOR TERMUX
-install required packages
+install required packages and install modules
 ```bash
 $ pkg update && pkg upgrade
-$ pkg install bash git nodejs
+$ pkg install git nodejs
 $ pkg install ffmpeg imagemagick
 $ pkg install libwebp 
-$ git clone https://github.com/devbotmail/Test
+$ git clone <Repository>
 $ termux setup-storage
 $ cd Test
 $ npm install && npm update
