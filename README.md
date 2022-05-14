@@ -189,22 +189,6 @@ $ yarn install
 node . or node index
 ```
 
-#### FITUR 📍
-| Fitur | Check |
-|--------|--------|
-| **Downloader** |[✔️](https://github.com/kannachann) |
-| **Internet** |[✔️](https://github.com/kannachann) |
-| **Game Rpg** |[✔️](https://github.com/kannachann) |
-| **Nsfw** |[✔️](https://github.com/kannachann) |
-| **Sticker** |[✔️](https://github.com/kannachann) |
-| **Game** |[✔️](https://github.com/kannachann) |
-| **Kerang Ajaib** |[✔️](https://github.com/kannachann) |
-| **Quotes** |[✔️](https://github.com/kannachann) |
-| **Anime** |[✔️](https://github.com/kannachann) |
-| **Premium** |[✔️](https://github.com/kannachann) |
-| **Tools** |[✔️](https://github.com/kannachann) |
-| **Exec** |[✔️](https://github.com/kannachann) |
-| **React** |[✔️](https://github.com/kannachann) |
 ---------
 
 ### Want to contribute?
@@ -227,6 +211,23 @@ Support Me
 * [`Saweria Donate 2`](https://saweria.co/bangdevs)
 * [`TrakTeer`](https://trakteer.id/AzRyCb)
 
+#### FITUR 📍
+| Fitur | Check |
+|--------|--------|
+| **Downloader** |[✔️](https://github.com/kannachann) |
+| **Internet** |[✔️](https://github.com/kannachann) |
+| **Game Rpg** |[✔️](https://github.com/kannachann) |
+| **Nsfw** |[✔️](https://github.com/kannachann) |
+| **Sticker** |[✔️](https://github.com/kannachann) |
+| **Game** |[✔️](https://github.com/kannachann) |
+| **Kerang Ajaib** |[✔️](https://github.com/kannachann) |
+| **Quotes** |[✔️](https://github.com/kannachann) |
+| **Anime** |[✔️](https://github.com/kannachann) |
+| **Premium** |[✔️](https://github.com/kannachann) |
+| **Tools** |[✔️](https://github.com/kannachann) |
+| **Exec** |[✔️](https://github.com/kannachann) |
+| **React** |[✔️](https://github.com/kannachann) |
+  
 ---------
  [![Adiwajshing-Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing/Baileys) | [![Nurutomo](https://github.com/nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Hyzerr](https://github.com/Hyzerr.png?size=100)](https://github.com/Hyzerr) | [![AzRy](https://github.com/AzRyCb.png?size=100)](https://github.com/AzRyCb) | [![LordArya](https://github.com/devbotmail.png?size=100)](https://github.com/devbotmail)
 ----|----|----|----|----
