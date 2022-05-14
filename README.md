@@ -209,7 +209,7 @@ Support Me
 * [`Saweria`](https://saweria.co/AzryCb)
 * [`Saweria Donate 2`](https://saweria.co/bangdevs)
 * [`TrakTeer`](https://trakteer.id/AzRyCb)
-
+---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
