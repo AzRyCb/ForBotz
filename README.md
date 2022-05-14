@@ -20,8 +20,8 @@
 <a href="https://www.youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng"><img src="https://img.shields.io/youtube/channel/subscribers/UC3zScvuQfMxqiTC5x_JUEng?style=social" /> <br>
 <a href="https://github.com/AzRyCb/ForBotz/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/PilarV2/ZEUSBOTZ-MD?label=PullRequest&color=red&style=flat-square"></a>
 </p>
----------
 
+---------
 ## `AzBotz`
 ### Simple Rpg WhatsApp Bot
 ### Default Prefixes: `!, @, #, $, %, ^, &, /, .`
