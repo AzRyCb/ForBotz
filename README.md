@@ -210,7 +210,7 @@ Support Me
 * [`Saweria Donate 2`](https://saweria.co/bangdevs)
 * [`TrakTeer`](https://trakteer.id/AzRyCb)
 ---------
-#### `FITUR & Apikey` 📍
+#### `Apikey feature list and support` 📍
 | Fitur | Check | Api |
 |--------|--------|--------|
 | **Downloader** |[✔️](https://github.com/AzRyCb/ForBotz) |[✔️](https://cutt.ly/xHhCYPd) |
