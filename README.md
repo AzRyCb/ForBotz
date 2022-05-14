@@ -20,9 +20,9 @@
 <a href="https://www.youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng"><img src="https://img.shields.io/youtube/channel/subscribers/UC3zScvuQfMxqiTC5x_JUEng?style=social" /> <br>
 <a href="https://github.com/AzRyCb/ForBotz/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/PilarV2/ZEUSBOTZ-MD?label=PullRequest&color=red&style=flat-square"></a>
 </p>
-
 ---------
-# AzBotz
+
+## `AzBotz`
 ### Simple Rpg WhatsApp Bot
 ### Default Prefixes: `!, @, #, $, %, ^, &, /, .`
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283879175089) 
@@ -31,8 +31,8 @@
 ---------
 
 ## Deploy to heroku
-  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
+
 | BuildPack | LINK |
 |--------|--------|
 | **FFMPEG** |[copy this link](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git)  |
