@@ -1,4 +1,4 @@
-<h1 align="center">My Project</h1>
+<h1 align="center">`Whatsapp BoTz`</h1>
 
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="https://i.ibb.co/TBVZ0YH/thumb.jpg" alt="Velgrynd"></a>
