@@ -196,13 +196,13 @@ node .
  
 ---------
 
-### Want to contribute?
-1. fork this repository
-2. Change/edit/create what you want. for example you can add features, fix bug, etc
-3. **test** before making a pull req!!
-4. make a pull req!
-5. if your pull req is already in **acc/merge**,
-   you can delete your branch or you can create pull req again :)
+### `Want to contribute?`
+- fork this repository
+- Change/edit/create what you want. for example you can add features, fix bug, etc
+- **test** before making a pull req!!
+- make a pull req!
+- if your pull req is already in **acc/merge**,
+  you can delete your branch or you can create pull req again :)
 
 ---------
 
@@ -220,7 +220,7 @@ Support Me
 #### `FITUR & Apikey` 📍
 | Fitur | Check | Api |
 |--------|--------|--------|
-| **Downloader** |[✔️](https://cutt.ly/xHhCYPd) |[✔️](https://cutt.ly/xHhCYPd) |
+| **Downloader** |[✔️] |[✔️](https://cutt.ly/xHhCYPd) |
 | **Internet** |[✔️](https://cutt.ly/xHhCYPd) |
 | **Game Rpg** |[✔️](https://cutt.ly/xHhCYPd) |
 | **Nsfw** |[✔️](https://cutt.ly/xHhCYPd) |
