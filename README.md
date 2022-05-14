@@ -217,13 +217,13 @@ Support Me
 * [`Saweria Donate 2`](https://saweria.co/bangdevs)
 * [`TrakTeer`](https://trakteer.id/AzRyCb)
 ---------
-#### `FITUR` 📍
+#### `FITUR & Apikey` 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/kannachann) |
-| **Internet** |[✔️](https://github.com/kannachann) |
-| **Game Rpg** |[✔️](https://github.com/kannachann) |
-| **Nsfw** |[✔️](https://github.com/kannachann) |
+| **Downloader** |[✔️](https://cutt.ly/xHhCYPd) |
+| **Internet** |[✔️](https://cutt.ly/xHhCYPd) |
+| **Game Rpg** |[✔️](https://cutt.ly/xHhCYPd) |
+| **Nsfw** |[✔️](https://cutt.ly/xHhCYPd) |
 | **Sticker** |[✔️](https://github.com/kannachann) |
 | **Game** |[✔️](https://github.com/kannachann) |
 | **Kerang Ajaib** |[✔️](https://github.com/kannachann) |
