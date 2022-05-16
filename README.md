@@ -32,7 +32,8 @@
   
 ---------
 
-## Heroku Buildpack [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
+## Heroku Buildpack [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -40,7 +41,7 @@
 | **IMAGEMAGICK** |[copy this link](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)  |
 
 Tutorial YouTube
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
+
 
 ---------
 ## FOR TERMUX
