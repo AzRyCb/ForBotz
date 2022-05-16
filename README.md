@@ -42,7 +42,6 @@
 
 ---------
 ## FOR TERMUX
-install required packages and install modules
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install git nodejs
@@ -121,8 +120,7 @@ npm update
 ```cmd
 setx /m PATH "C:\ffmpeg\bin;%PATH%"
 ```
-If successful, it will give you a message like:
-`SUCCESS: specified value was saved`.
+If successful, it will give you a message like: `SUCCESS: specified value was saved`.
 
 * To verify that it works by running this command to see the version:
 ```cmd
