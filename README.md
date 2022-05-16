@@ -1,4 +1,4 @@
-<h1 align="center">GtwMalesPenTuru:v</h1>
+<h1 align="center">WaBot Multi Device:v</h1>
 
 <p align="center">
   <a href="https://cutt.ly/xHhMmzw"><img src="https://i.ibb.co/TBVZ0YH/thumb.jpg" alt="Velgrynd"></a>
