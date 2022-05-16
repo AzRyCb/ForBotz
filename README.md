@@ -51,17 +51,7 @@ $ git clone <Repository>
 $ termux setup-storage
 $ cd Test
 $ npm install && npm update
-```
-
-If npm install failed, try using yarn instead of npm
-```sh
-$ pkg install yarn -y
-$ yarn install
-```
-
-#### Running bot
-```bash
-node .
+$ node .
 ```
 ---------
 
@@ -169,7 +159,10 @@ $ npm update
 If npm install failed, try using yarn instead of npm
 ```sh
 $ npm install -g yarn
-$ yarn
+$ yarn install
+  
+##for termux
+$ pkg install yarn -y
 $ yarn install
 ```
 
