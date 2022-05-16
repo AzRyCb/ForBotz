@@ -44,12 +44,11 @@
 ## FOR TERMUX
 ```bash
 $ pkg update && pkg upgrade
-$ pkg install git nodejs
-$ pkg install ffmpeg imagemagick
-$ pkg install libwebp 
+$ pkg install git nodejs ffmpeg
+$ pkg install imagemagick libwebp
 $ git clone <Repository>
 $ termux setup-storage
-$ cd Test
+$ cd <folder name>
 $ npm install && npm update
 $ node .
 ```
