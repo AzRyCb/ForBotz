@@ -20,7 +20,7 @@
 
 ---------
 
-## `AzBotz`
+## `AzBotz` [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
   
  - Simple Rpg WhatsApp Bot
  - Default Prefixes: `!, @, #, $, %, ^, &, /, .`
