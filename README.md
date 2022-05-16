@@ -23,7 +23,7 @@
 ## `AzBotz` 
   
  - Simple Rpg WhatsApp Bot
- - Jangan dijual YGY :v
+ - Bot ini menggunakan apikey & scrapper
  - Default Prefixes: `!, @, #, $, %, ^, &, /, .`
   
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283879175089) 
@@ -179,7 +179,7 @@ node .
 
 ### `Want to contribute?`
 - fork this repository
-- Change/edit/create what you want. for example you can add features, fix bug, etc
+- Change/create what you want. for example you can add features, fix bug, etc
 - **test** before making a pull req!!
 - make a pull req!
 - if your pull req is already in **acc/merge**,
@@ -189,7 +189,8 @@ node .
 
 ## `Information` ❗
 WhatsApp bot is still in the development stage.
-
+Dilarang menjual bot ini auto ketauan
+  
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me
@@ -216,7 +217,7 @@ Support Me
 | **React** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
   
 ---------
- [![Adiwajshing-Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing/Baileys) | [![Nurutomo](https://github.com/nurutomo.png?size=100)](https://github.com/Nurutomo) | [![AzRy](https://github.com/AzRyCb.png?size=100)](https://github.com/AzRyCb) | [![LordArya](https://github.com/devbotmail.png?size=100)](https://github.com/devbotmail)
+ [![Adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing/Baileys) | [![Nurutomo](https://github.com/nurutomo.png?size=100)](https://github.com/Nurutomo) | [![AzRy](https://github.com/AzRyCb.png?size=100)](https://github.com/AzRyCb) | [![LordArya](https://github.com/devbotmail.png?size=100)](https://github.com/devbotmail)
 ----|----|----|----
 [Adiwajshing-Baileys](https://github.com/adiwajshing/Baileys) | [Nurutomo](https://github.com/Nurutomo) | [AzRy](https://github.com/AzRyCb) | [LordArya](https://github.com/devbotmail)
  Pembuat Baileys | Penulis / Pencipta | Owner | Partner
