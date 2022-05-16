@@ -189,14 +189,12 @@ node .
 
 ## `Information` ❗
   
-
-
 Support Me
 * [`Paypal`](https://www.paypal.me/Cakhaho)
 * [`Saweria`](https://saweria.co/AzryCb)
 * [`Saweria Donate 2`](https://saweria.co/bangdevs)
 * [`TrakTeer`](https://trakteer.id/AzRyCb)
----------
+  
 #### `Apikey feature list and support` 📍
 | Fitur | Check | Api |
 |--------|--------|--------|
