@@ -22,7 +22,7 @@
 
 ## `AzBotz` 
   
- - Simple Rpg WhatsApp Bot
+ - License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
  - Bot ini menggunakan apikey & scrapper
  - Default Prefixes: `!, @, #, $, %, ^, &, /, .`
   
@@ -188,10 +188,8 @@ node .
 ---------
 
 ## `Information` ❗
-WhatsApp bot is still in the development stage.
-Dilarang menjual bot ini auto ketauan
   
-License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
 
 Support Me
 * [`Paypal`](https://www.paypal.me/Cakhaho)
