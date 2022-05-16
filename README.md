@@ -32,16 +32,13 @@
   
 ---------
 
-## Heroku Buildpack [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
+## Heroku Buildpack 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
 
 | BuildPack | LINK |
 |--------|--------|
 | **FFMPEG** |[copy this link](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git)  |
 | **IMAGEMAGICK** |[copy this link](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)  |
-
-Tutorial YouTube
-
 
 ---------
 ## FOR TERMUX
