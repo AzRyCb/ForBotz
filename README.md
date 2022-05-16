@@ -35,10 +35,10 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
 
 | BuildPack | LINK |
-|--------|--------|--------|
+|--------|--------|
 | **FFMPEG** |[copy this link](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git)  |
 | **IMAGEMAGICK** |[copy this link](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)  |
-| **LIBWEBP** |[Jika perlu](https://github.com/jayshreeanand/heroku-buildpack-libwebp)  |
+| **LIBWEBP** |[jika perlu](https://github.com/jayshreeanand/heroku-buildpack-libwebp)  |
 
 ---------
 ## FOR TERMUX
