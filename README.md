@@ -38,7 +38,9 @@
 - REPORTA CUALQUIER FALLO CON EL COMANDO DE REPORTE 
 - PARA PODER ESCANEAR EL CODIGO QR DEBES SER PARTICIPANTE DE LA VERSION MULTI-DEVICE (BETA) DE WHATSAPP
 - NO MODIFIQUES NADA QUE NO SEPAS PARA QUE ES, PARA EVITAR PROBLEMAS O ERRORES
+```
 ---------
+
 
 ## Heroku Buildpack 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
@@ -60,7 +62,9 @@ $ termux setup-storage
 $ cd <folder name>
 $ npm install && npm update
 $ node .
+```
 ---------
+
 
 ### FOR TERMUX WITH UBUNTU
 
