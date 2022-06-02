@@ -36,11 +36,10 @@
 - This script is free to use but not for sale
 - Support the creator by including the watermark
 - Prevent spam users so that bots don't delay
-- Donate? 
+- 
 ```
 [`Paypal`](https://www.paypal.me/Cakhaho)  [`Saweria`](https://saweria.co/AzryCb)
 ---------
-
 
 ## Heroku Buildpack 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devbotmail/Test)
@@ -55,8 +54,8 @@
 ## FOR TERMUX
 ```bash
 $ pkg update && pkg upgrade
-$ pkg install git nodejs ffmpeg
-$ pkg install imagemagick libwebp
+$ pkg install git nodejs -y
+$ pkg install ffmpeg imagemagick -y
 $ git clone <Repository>
 $ termux setup-storage
 $ cd <folder name>
@@ -64,7 +63,6 @@ $ npm install && npm update
 $ node .
 ```
 ---------
-
 
 ### FOR TERMUX WITH UBUNTU
 
@@ -91,7 +89,7 @@ graphicsmagick-imagemagick-compat
 ```
 ---------
 
-[ INSTALLING NODEJS & GAMES-WABOT ]
+[ INSTALLING NODEJS & BOT ]
 
 ```bash
 ubuntu
@@ -184,7 +182,7 @@ node .
 
 2. Wait for bot starting...
 3. (Go to whatsapp > Click the three dots button in the top right corner 
-4. click Linked Devices > Join `Multi Device Beta` > Click on `link device`)
+4. click Linked Devices > Join `Multi Device` > Click on `link device`)
 5. Scan QR code
  
 ---------
@@ -217,7 +215,7 @@ node .
 | **React** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
   
 ---------
- [![Adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing/Baileys) | [![Nurutomo](https://github.com/nurutomo.png?size=100)](https://github.com/Nurutomo) | [![AzRy](https://github.com/AzRyCb.png?size=100)](https://github.com/AzRyCb) | [![LordArya](https://github.com/devbotmail.png?size=100)](https://github.com/devbotmail)
-----|----|----|----
-[Adiwajshing-Baileys](https://github.com/adiwajshing/Baileys) | [Nurutomo](https://github.com/Nurutomo) | [AzRy](https://github.com/AzRyCb) | [LordArya](https://github.com/devbotmail)
+ [![Adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing/Baileys) | [![AzRy](https://github.com/AzRyCb.png?size=100)](https://github.com/AzRyCb) | [![LordArya](https://github.com/devbotmail.png?size=100)](https://github.com/devbotmail)
+----|----|----|----|
+[Adiwajshing-Baileys](https://github.com/adiwajshing/Baileys) | [AzRy](https://github.com/AzRyCb) | [LordArya](https://github.com/devbotmail)
  Pembuat Baileys | Penulis / Pencipta | Owner | Partner
