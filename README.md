@@ -36,8 +36,9 @@
 - This script is free to use but not for sale
 - Support the creator by including the watermark
 - Prevent spam users so that bots don't delay
-- Donate? [`Paypal`](https://www.paypal.me/Cakhaho)  [`Saweria`](https://saweria.co/AzryCb)
+- Donate? 
 ```
+[`Paypal`](https://www.paypal.me/Cakhaho)  [`Saweria`](https://saweria.co/AzryCb)
 ---------
 
 
@@ -197,11 +198,6 @@ node .
   you can delete your branch or you can create pull req again :)
 
 ---------
-
-## `Information` ❗
-  
-Support Me
-
   
 #### `Apikey feature list and support` 📍
 | Fitur | Check | Api |
