@@ -31,13 +31,12 @@
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd) 
 ---------
   
-### `—◉ 📝 NOTAS 📝`
+### `—◉ 📝 Notes 📝`
 ```bash
-- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- ES RECOMENDABLE LEER TODO EL MENU Y VER EL FUNCIONAMIENTO DE CADA UNO DE LOS COMANDOS
-- REPORTA CUALQUIER FALLO CON EL COMANDO DE REPORTE 
-- PARA PODER ESCANEAR EL CODIGO QR DEBES SER PARTICIPANTE DE LA VERSION MULTI-DEVICE (BETA) DE WHATSAPP
-- NO MODIFIQUES NADA QUE NO SEPAS PARA QUE ES, PARA EVITAR PROBLEMAS O ERRORES
+- This script is free to use but not for sale
+- Support the creator by including the watermark
+- Prevent spam users so that bots don't delay
+- 
 ```
 ---------
 
