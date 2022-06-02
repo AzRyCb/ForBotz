@@ -36,7 +36,7 @@
 - This script is free to use but not for sale
 - Support the creator by including the watermark
 - Prevent spam users so that bots don't delay
-- 
+- Donate? * [`Paypal`](https://www.paypal.me/Cakhaho), [`Saweria`](https://saweria.co/AzryCb), [`TrakTeer`(https://trakteer.id/AzRyCb)
 ```
 ---------
 
@@ -201,10 +201,7 @@ node .
 ## `Information` ❗
   
 Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/AzryCb)
-* [`Saweria Donate 2`](https://saweria.co/bangdevs)
-* [`TrakTeer`](https://trakteer.id/AzRyCb)
+
   
 #### `Apikey feature list and support` 📍
 | Fitur | Check | Api |
