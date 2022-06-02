@@ -30,7 +30,6 @@
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285795035419) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd) 
 ```
----------
   
 ### `—◉ 📝 NOTAS 📝`
 ```bash
@@ -61,7 +60,6 @@ $ termux setup-storage
 $ cd <folder name>
 $ npm install && npm update
 $ node .
-```
 ---------
 
 ### FOR TERMUX WITH UBUNTU
