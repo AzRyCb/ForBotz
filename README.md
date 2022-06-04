@@ -62,7 +62,14 @@ $ npm install && npm update
 $ node .
 ```
 ---------
-
+##Octeto
+- pastikan di sc terdapat dockerfile dan docker compose.yml
+- setekah itu buka octeto.com
+- dan login menggunakan akun github
+- lalu deploy sc ini
+- tutorial via youtube dibawah
+  
+---------
 ### FOR TERMUX WITH UBUNTU
 
 [ INSTALLING UBUNTU ]
