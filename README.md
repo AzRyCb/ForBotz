@@ -38,7 +38,6 @@
 - Prevent spam users so that bots don't delay
 - 
 ```
-[`Paypal`](https://www.paypal.me/Cakhaho)  [`Saweria`](https://saweria.co/AzryCb)
 ---------
 
 ## Heroku Buildpack 
@@ -196,6 +195,7 @@ node .
   you can delete your branch or you can create pull req again :)
 
 ---------
+  [`Paypal`](https://www.paypal.me/Cakhaho)  [`Saweria`](https://saweria.co/AzryCb)
   
 #### `Apikey feature list and support` 📍
 | Fitur | Check | Api |
