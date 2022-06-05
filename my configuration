@@ -31,11 +31,8 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk mengaktifkan\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '[Error] Terjadi kesalahan !\nSilahkan kepada owner'
-global.stiker_wait = 'Stiker sedang dibuat'
 global.wait = '[Wait] Sedang di proses...'
 wait = '_*Tunggu Sebentar...*_'
-global.benar = 'Benar ✅\n'
-global.salah = 'Salah ❌\n'
 
 //main.js
 global.conn = new WAConnection()
