@@ -14,7 +14,7 @@ let fs = require('fs')
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4104)
 
-global.global.linkGC = ['https://chat.whatsapp.com/GNOimnXOQoR10oOjCsadXZ','']
+global.linkGC = ['https://chat.whatsapp.com/GNOimnXOQoR10oOjCsadXZ','']
 global.owner = ['6285795035419','6289688069444']
 global.mods = ['6285795035419'] // Moderator
 prems = JSON.parse(fs.readFileSync('./src/premium.json'))
