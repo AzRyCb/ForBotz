@@ -212,24 +212,7 @@ node .
   you can delete your branch or you can create pull req again :)
 
 ---------
-  [`Paypal`](https://www.paypal.me/Cakhaho)  [`Saweria`](https://saweria.co/AzryCb)
-  
-#### `Apikey feature list and support` 📍
-| Fitur | Check | Api |
-|--------|--------|--------|
-| **Downloader** |[✔️](https://github.com/AzRyCb/ForBotz) |[✔️](https://cutt.ly/xHhCYPd) |
-| **Internet** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
-| **Game Rpg** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
-| **Nsfw** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
-| **Sticker** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
-| **Game** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
-| **Kerang Ajaib** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
-| **Quotes** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
-| **Anime** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
-| **Premium** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
-| **Tools** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
-| **Exec** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
-| **React** |[✔️](https://github.com/AzRyCb/ForBotz) | [✔️](https://cutt.ly/xHhCYPd) |
+[`Paypal`](https://www.paypal.me/Cakhaho)  [`Saweria`](https://saweria.co/AzryCb)
   
 ---------
  [![Adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing/Baileys) | [![AzRy](https://github.com/AzRyCb.png?size=100)](https://github.com/AzRyCb) | [![LordArya](https://github.com/devbotmail.png?size=100)](https://github.com/devbotmail)
