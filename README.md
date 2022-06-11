@@ -32,16 +32,13 @@
 ---------
   
 ### `—◉ 📝 Notes 📝`
+  - bikin sesi? Di sini => PAKAI MODE DESKTOP [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@zeeoneofc/SessionByZeeoneOfc?lite=1&outputonly=1#.replit)
 ```bash
 - This script is free to use but not for sale
 - Support the creator by including the watermark
 - Prevent spam users so that bots don't delay
 - 
 ```
----------
-
-## Ambil [seesion.data.json] Di sini => JANGAN LUPA MODE DESKTOP
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@zeeoneofc/SessionByZeeoneOfc?lite=1&outputonly=1#.replit)
 
 ---------
 
