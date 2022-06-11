@@ -42,8 +42,7 @@
 
 ## Ambil [seesion.data.json] Di sini => JANGAN LUPA MODE DESKTOP
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@zeeoneofc/SessionByZeeoneOfc?lite=1&outputonly=1#.replit)
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannachann&theme=vue">
+
 ---------
 
 ## Heroku Buildpack 
@@ -55,12 +54,36 @@
 | **IMAGEMAGICK** |[copy this link](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)  |
 | **LIBWEBP** |[jika perlu](https://github.com/jayshreeanand/heroku-buildpack-libwebp)  |
 
-## FOR DEPLOY RAILWAY USER
+## UNTUK PENGGUNA RAILWAY
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAzRyCb%2Fslime-wabot)
-  
-##gitpod
-  
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKangsad01%2Fbot-md)
+
+## UNTUK PENGGUNA REPLIT
+
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Kangsad01/bot-md)
+```cmd
+Buka Console
+------------
+> npm i
+> npm update
+> install-pkg webp
+> install-pkg ffmpeg
+-------------
+Click Run
+```
+## FOR OKTETO
+- pastikan di sc terdapat dockerfile dan docker compose.yml
+- setekah itu buka Okteto [`Click Here`](https://okteto.com)
+- Login with your github
+- Click Launch Dev Environment
+- Choose your repo
+
+---------
+
+## PANEL/RDP/VPS
+
+* Amiruldev [`Click Here`](https://www.amiruldev.my.id)
+
 ---------
 ## FOR TERMUX
 ```bash
@@ -73,13 +96,6 @@ $ cd <folder name>
 $ npm install && npm update
 $ node .
 ```
----------
-##Octeto
-- pastikan di sc terdapat dockerfile dan docker compose.yml
-- setekah itu buka octeto.com
-- dan login menggunakan akun github
-- lalu deploy sc ini
-- tutorial via youtube dibawah
   
 ---------
 ### FOR TERMUX WITH UBUNTU
